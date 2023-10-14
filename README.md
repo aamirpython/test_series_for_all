@@ -1,0 +1,1 @@
+# test_series_for_all
